@@ -1,3 +1,53 @@
+English
+
+Privacy Policy
+
+Bolat Tleubaev created the free ABCard application. This service is provided by Bolat Tleubaev free of charge.
+
+This page is used to inform visitors about my policy regarding the collection, use and disclosure of personal information if anyone decides to use my application.
+
+If you decide to use my application, you agree to the collection and use of information in accordance with this policy. The personal information I collect is used to provide and improve the service. I will not use or share your information with anyone other than as described in this privacy policy.
+
+Collection and use of information
+
+For a more convenient use of the application, I may require that you provide certain personal information. The information I request will be stored on your device and not collected by me in any way.
+
+The application uses third-party services that may collect information used for your identification. This information is required to analyze the causes of application errors and then resolve errors.
+
+Log Data
+
+I want to inform you that whenever you use my application, in case of an error in the application, I collect data and information (through third-party products) on your phone called “Log Data”. This log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using my service, time and date you used the service, and other statistics.
+
+Cookie
+
+Cookies are small data files that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in the internal memory of your device.
+
+This Service does not use these cookies explicitly. However, the application can use third-party code and libraries that use cookies to collect information and improve their services. You have the opportunity to accept or decline these cookies and find out when a cookie is sent to your device. If you decide to refuse our cookies, you will not be able to use some parts of this service.
+
+Service providers
+
+I can hire third-party companies and individuals for the following reasons:
+
+To improve the service;
+To provide service on our behalf;
+Provide services; or
+To help us analyze how our application is used.
+I want to inform the users of this Service that these third parties have access to your personal information. This is necessary in order to carry out the tasks entrusted to them on our behalf. However, they are required not to disclose or use the information for any other purpose.
+
+Security
+
+I appreciate your trust in providing us with your personal information, which is why we strive to use commercially acceptable means of protecting it. But remember that no method of transferring over the Internet or the method of electronic storage is 100% safe and reliable, and I can not guarantee its absolute safety.
+
+Links to other sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be redirected to this site. Please note that these external sites are not managed by me. Therefore, I highly recommend that you read the privacy policies of these websites. I do not control and am not responsible for the content, privacy policy or the actions of any third-party sites or services.
+
+Changes to this Privacy Policy
+
+I may update our Privacy Policy from time to time. Therefore, you are advised to periodically review this page for changes. I will inform you of any changes by posting a new Privacy Policy on this page. These changes take effect immediately after they are published on this page.
+
+Russian/Русский
+
 Политика конфиденциальности
 
 Тлеубаев Болат Арманович создал бесплатное приложение ABCard. Данная услуга предоставляется Болатом Тлеубаевым бесплатно.
